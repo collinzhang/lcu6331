@@ -1,0 +1,46 @@
+SYSTem:REMote  前面板上的键除Local 键外全都禁用
+SYSTem:LOCal   电源置于本地模式
+SYSTem:RWLock  所有键全都禁用 
+
+
+OUTPut ON
+OUTPut OFF
+APPL P6V,3.0,1.0   设置电源
+APPL? P6V          读取设置
+
+
+OUTPut:STAT ON
+MEASure:VOLTage:DC? P6V 测量输出电压
+
+
+SYSTem:REMote  前面板上的键除Local 键外全都禁用
+SYSTem:LOCal   电源置于本地模式
+SYSTem:RWLock  所有键全都禁用 
+
+
+OUTPut ON
+OUTPut OFF
+APPL P6V,3.0,1.0   设置电源
+APPL? P6V          读取设置
+
+
+OUTPut:STAT ON
+MEASure:VOLTage:DC? P6V 测量输出电压
+
+
+
+53131A
+
+conf:freq 1,1e-8   设位数
+conf:pre1,1e-8     设通道1的周期位数
+sens:tint:arm:stop:tim? 读取闸门时间
+read? 读取当前测量值
+
+
+
+
+
+
+vingcard number:04 E7 89 71 ED 02 80
+
+

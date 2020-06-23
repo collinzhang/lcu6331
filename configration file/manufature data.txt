@@ -1,0 +1,18 @@
+[Parr number]
+Parr number=4821683
+[Revision letter]
+Revision letter=01
+[Revision counter]
+Revision counter=001
+[Manufature]
+Manufature=005
+[.128 file]
+.128 file=E:\\LCU6331 test\\4821683A000\\Config\\HEX file\\RFID_m645_Prodtest_LCU6331_V2_preliminary.128
+[Application firmware file]
+Application firmware file=E:\\LCU6331 test\\4821683A000\\Config\\HEX file\\CSTR105.128
+[Data file]
+Data file=E:\\LCU6331 test\\4821683A000\\Config\\HEX file\\CATAB103.DTA
+[Txt path]
+Txt path=F:\\Testdata\\LCU6331\\LCU6331 txt
+[EXCLE path]
+EXCLE path=F:\\Testdata\\LCU6331\\LCU 6331 EXCEL

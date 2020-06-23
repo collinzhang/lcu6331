@@ -1,0 +1,80 @@
+/*****************************************
+
+Title:  VingCard'configration files
+Mode:   Inspectin mode
+Author: XuXiaowu
+Date:   2009-05-07
+
+*****************************************/
+
+[VHEATFUSENOLOADMIN]        /* VHEATFUSENOLOADMIN 4.40V */
+VHEATFUSENOLOADMIN=4.40
+
+[VHEATFUSELOADMAX]          /* VHEATFUSELOADMAX 2.25V */
+VHEATFUSELOADMAX=2.25
+
+[VOVERRIDEDIODEMIN]         /* VOVERRIDEDIODEMIN 3.00V */
+VOVERRIDEDIODEMIN=3.00
+
+[TDIFFMAX]                  /* TDIFFMAX 7¡æ */
+TDIFFMAX=7
+
+[MEASFREQMAX]              /* MEASFREQMAX 64.00320 */
+MEASFREQMAX=64.00320
+
+[MEASFREQMIN]               /* MEASFREQMIN=63.99680 */
+MEASFREQMIN=63.99680
+
+[VOVER]                  /* VOVER 3.65V */
+VOVER=3.65
+
+[VMIDDLE]                /* VMIDDLE 3.40V */
+VMIDDLE=3.40
+
+[VUNDER]                 /* VUNDER 3.15V */
+VUNDER=3.15
+
+[VNORESET]               /* VNORESET 2.90V */
+VNORESET=2.90
+
+[VRESET]                 /* VRESET 2.70V*/
+VRESET=2.70
+
+[WAITPING]           /* WAITPING 2s */
+WAITPING=2
+
+[LRFID]              /* LRFID  1.5cm */
+LRFID=1.5
+
+[RFIDUID]            /* RFIDUID */
+RFIDUID=	
+
+[EXTEESIZE]          /* EXTEESIZE 02h */
+EXTEESIZE=02
+
+[LCUTYPE]            /* LCUTYPE 25h */
+LCUTYPE=25
+
+[LCUSUBTYPE]         /* LCUSUBTYPE 00h */
+LCUSUBTYPE=00
+
+[TEVN]               /* TEVN 61h */
+TEVN=61
+
+[BOOTVER]            /* BOOTVER */
+BOOTVER="BL 6331 V1.01       "
+
+[APPVER]             /* APPVER */
+APPVER=
+
+[ISLEEPMAX]      /* ISLEEPMAX 20uA */
+ISLEEPMAX=20
+
+[TSLEEP]      /* TSLEEP 10s */
+TSLEEP=10
+ 
+[APPWAIT]     /* APPWAIT 2s */
+APPWAIT=2
+
+[DBWAIT]      /* DBWAIT 3s */
+DBWAIT=3

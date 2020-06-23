@@ -1,0 +1,8 @@
+1.更改Make serial number.VI中周期，加1
+程序默认的是从0周开始计算，现更加1
+2.更改Make serial number.VI，周期前补字符0 （2010.01.07 Colin）
+3、Print SN.vi Y,Y1,Y2,Y3,Y4,Y5整体加4 （2010.01.12 colin）
+4、应TE要求，增加打印机选择模式，增加一个case选择，全局变量配置，默认打印标签 （2010.3.2 colin）
+5、应TE以及BU要求，前面板增加Full Test？按钮，主程序中增加一个case选择，全局变量配置，默认完整测试。主程序前端增加打印机初始化动作，具体VI为imit print.vi。非完整测试模式下会减少最后两步烧录以及打印动作，适用于灌胶前测试使用。(2010.9.15 Colin)
+6、E:\LCU6331 test\printer\WEEE.PCX以及CE.PCX文件放在指定目录下。（2010.9.15 Colin）
+7、修改配置文件配置模式，由前面板的Full Test？按钮配置. (2010.10.7 Colin)
